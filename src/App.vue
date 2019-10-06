@@ -1,18 +1,18 @@
 <template>
   <v-app>
     <v-content>
-      <HelloWorld />
+      <ShrtenForm />
     </v-content>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
+import ShrtenForm from "./components/ShrtenForm";
 
 export default {
   name: "App",
   components: {
-    HelloWorld
+    ShrtenForm
   },
   data: () => ({
     //
