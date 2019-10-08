@@ -7,6 +7,8 @@ Vue.config.productionTip = false;
 
 Vue.use(VueClipboard);
 
+Vue.use(vuetify);
+
 new Vue({
   vuetify,
   render: h => h(App)
