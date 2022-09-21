@@ -14,7 +14,7 @@
     "flush-promises": "^1.0.2",
     "vue": "^2.6.10",
     "vue-clipboard2": "^0.3.1",
-    "vuetify": "^2.1.1"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
